@@ -1,2 +1,2 @@
-# Dimensions-adventures
-A Minecraft  Bedrock Editon Add-on Modpack
+# Dimensions adventures
+A Minecraft Bedrock Editon Add-on Modpack
