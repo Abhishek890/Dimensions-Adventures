@@ -1,0 +1,16 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Dimensions Adventures BP",
+        "description": "This Pack Is By §1Twitter:§6 @AbhisheKumar90  §5Report Bug Too.§6v1.1",
+        "uuid": "ad7b78a7-85f3-43f2-a6d2-1c7ea5d5b5f6",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "21c5e2cb-7e00-47ae-a6cc-fe8a916915b6",
+            "version": [0, 0, 1]
+        }
+    ]
+}
