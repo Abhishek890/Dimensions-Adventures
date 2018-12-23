@@ -1,1 +1,17 @@
-
+{
+    "format_version": 1,
+    "header": {
+        "name": "Dimensions Adventures RP",
+        "description": "This Pack Is By §1Twitter:§6 @AbhisheKumar90  §5Report Bug Too.§6v1.1",
+        "uuid": "6ce22219-c8b9-4f07-92cd-3ec535862b3e",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "795fc044-282d-4478-abad-a6c5d4c6653b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
